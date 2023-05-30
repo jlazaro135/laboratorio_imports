@@ -1,6 +1,6 @@
 # laboratorio imports
 
-**[DEMO LINK - LABORATORIO IMPORTS](https://https://siete-y-media.netlify.app/)**
+**[DEMO LINK - LABORATORIO IMPORTS](https://siete-y-media.netlify.app/)**
 
 Es una continuación del laboratorio de condicionales (bootcamp JS - Lemoncode), en la que se ha modularizado todo el código en diferentes archivos:
 
